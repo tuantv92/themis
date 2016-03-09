@@ -1,10 +1,10 @@
-package com.gaia.rbac.entity.impl;
+package com.themis.rbac.entity.impl;
 
 import java.util.Collection;
 import java.util.HashSet;
 
-import com.gaia.rbac.entity.RBACRole;
-import com.gaia.rbac.entity.RBACUser;
+import com.themis.rbac.entity.RBACRole;
+import com.themis.rbac.entity.RBACUser;
 
 public class AbstractRBACUser implements RBACUser {
 

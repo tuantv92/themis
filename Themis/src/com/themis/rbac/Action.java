@@ -1,8 +1,8 @@
-package com.gaia.rbac;
+package com.themis.rbac;
 
 import java.util.Collection;
 
-import com.gaia.rbac.anotation.RequiredPermission;
+import com.themis.rbac.anotation.RequiredPermission;
 
 public interface Action {
 

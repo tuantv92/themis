@@ -1,8 +1,8 @@
-package com.gaia.rbac.entity;
+package com.themis.rbac.entity;
 
 import java.util.Collection;
 
-import com.gaia.rbac.Grantee;
+import com.themis.rbac.Grantee;
 
 public interface RBACUser extends Grantee {
 

@@ -1,4 +1,4 @@
-package com.gaia.rbac;
+package com.themis.rbac;
 
 public interface Grantee {
 

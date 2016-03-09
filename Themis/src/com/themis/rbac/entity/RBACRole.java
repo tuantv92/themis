@@ -1,9 +1,9 @@
-package com.gaia.rbac.entity;
+package com.themis.rbac.entity;
 
 import java.util.Collection;
 
-import com.gaia.rbac.Grantee;
-import com.gaia.rbac.Permission;
+import com.themis.rbac.Grantee;
+import com.themis.rbac.Permission;
 
 public interface RBACRole extends Grantee {
 

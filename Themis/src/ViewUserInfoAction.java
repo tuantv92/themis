@@ -1,7 +1,7 @@
-import com.gaia.rbac.Grantee;
-import com.gaia.rbac.PermissionManager;
-import com.gaia.rbac.action.impl.AbstractAction;
-import com.gaia.rbac.anotation.RequiredPermission;
+import com.themis.rbac.Grantee;
+import com.themis.rbac.PermissionManager;
+import com.themis.rbac.action.impl.AbstractAction;
+import com.themis.rbac.anotation.RequiredPermission;
 
 @RequiredPermission({ "view_user_info", "" })
 public class ViewUserInfoAction extends AbstractAction {

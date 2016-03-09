@@ -1,4 +1,4 @@
-package com.gaia.rbac;
+package com.themis.rbac;
 
 import java.util.Collection;
 

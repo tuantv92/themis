@@ -1,8 +1,8 @@
-package com.gaia.rbac.action.impl;
+package com.themis.rbac.action.impl;
 
-import com.gaia.rbac.Action;
-import com.gaia.rbac.Grantee;
-import com.gaia.rbac.PermissionManager;
+import com.themis.rbac.Action;
+import com.themis.rbac.Grantee;
+import com.themis.rbac.PermissionManager;
 
 public abstract class AbstractAction implements Action {
 

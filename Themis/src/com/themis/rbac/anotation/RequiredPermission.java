@@ -1,4 +1,4 @@
-package com.gaia.rbac.anotation;
+package com.themis.rbac.anotation;
 
 import static java.lang.annotation.ElementType.TYPE;
 

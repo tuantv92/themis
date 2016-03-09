@@ -1,10 +1,10 @@
-package com.gaia.rbac.entity.impl;
+package com.themis.rbac.entity.impl;
 
 import java.util.Collection;
 import java.util.HashSet;
 
-import com.gaia.rbac.Permission;
-import com.gaia.rbac.entity.RBACRole;
+import com.themis.rbac.Permission;
+import com.themis.rbac.entity.RBACRole;
 
 public abstract class AbstractRBACRole implements RBACRole {
 
